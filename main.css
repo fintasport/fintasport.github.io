@@ -55,7 +55,7 @@ body{
   width: 100%;
   height: 100%;
 }
-#articulos-deportivos{
+#artículos-deportivos{
   background-image: linear-gradient(to bottom, #069ec4 0%, #069ec4 100%);
   top: 0;
   left: 0;
@@ -79,7 +79,7 @@ body{
   width: 100%;
   height: 100%;
 }
-#...{
+#uniformes-corporativos{
   background-image: linear-gradient(to bottom, #3b3b3b 0%, #3b3b3b 100%);
   top: 0;
   left: 0;
@@ -87,7 +87,24 @@ body{
   width: 100%;
   height: 100%;
 }
-#uniformes{position: relative;
+#promociones-escolares{
+  background-image: linear-gradient(to bottom, #069ec4 0%, #069ec4 100%);
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+#clientes{
+  background-image: linear-gradient(to bottom, #3b3b3b 0%, #3b3b3b 100%);
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#fondo1{position: relative;
   background:url(http://localhost/fintasport/img/banner-deporte.jpg);
   background-size: cover;
   top: 0;
@@ -96,7 +113,7 @@ body{
   width: 100%;
   height: 100%;
 }
-#sublimaciones{
+#fondo2{
   position: relative;
   background:url(https://fintasport.github.io/img/a.jpg);
   background-size: cover;
@@ -107,7 +124,7 @@ body{
   width: 100%;
   height: 100%;
  }
- #deportes{position: relative;
+ #seccion-x{position: relative;
   
   top: 0;
   left: 0;
